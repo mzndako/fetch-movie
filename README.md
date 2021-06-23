@@ -1,5 +1,5 @@
 # Simple Fetch Movie App
-A simple fetch movie react app
+A simple react app to search, fetch and display movie from OMDB server
 
 ## Available Scripts
 
